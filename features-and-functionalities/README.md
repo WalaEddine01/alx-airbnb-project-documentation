@@ -1,0 +1,1 @@
+! [feutures-and-functionalities] (features-and-functionalities.png)
