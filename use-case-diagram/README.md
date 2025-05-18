@@ -1,0 +1,2 @@
+# USE CASE DIAGRAM
+# ![Use Case Diagram](UseCase.png) is a visual representation of the interactions between users and a system. It helps to identify the requirements and functionalities of the system from the user's perspective.
