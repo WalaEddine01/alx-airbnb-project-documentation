@@ -1,1 +1,1 @@
-![feutures-and-functionalities](features-and-functionalities.png)
+![features-and-functionalities](features-and-functionalities.png)
